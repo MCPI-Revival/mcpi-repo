@@ -7,10 +7,18 @@ Download a `.mcpiw` world file. Rename the file extension and change it to a `.z
 ## World descriptions
 Here, you can find a description about all our worlds!
 
-[Flat_World.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Flat_World.mcpiw): Superflat world.
+[Flat World.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Flat World.mcpiw): Superflat world.
 
-[SkaraBrae.mcpiw](https://mcpi.tk/mcpi-repo/worlds/SkaraBrae.mcpiw): Prehistoric village model. https://en.wikipedia.org/wiki/Skara_Brae (For education purposes).
+[Skara Brae.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Skara Brae.mcpiw): Prehistoric village model. [Wikipedia page](https://en.wikipedia.org/wiki/Skara_Brae) (For education purposes).
 
-[Skyblock_v1.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Skyblock_v1.mcpiw): *Skyblock*.
+[Skyblock.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Skyblock.mcpiw): *Skyblock*.
 
-[Void_World.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Void_World.mcpiw): There is nothing.
+[Void World.mcpiw](https://mcpi.tk/mcpi-repo/worlds/Void World.mcpiw): There is nothing.
+
+[Hogwarts](https://mcpi.tk/mcpi-repo/worlds/Hogwarts.mcpiw): *Hogwarts*.
+
+[Defense of the Throne](https://mcpi.tk/mcpi-repo/worlds/Defense of the Throne.mcpiw): *Defense of the Throne*.
+
+[Quest of the Assassin](https://mcpi.tk/mcpi-repo/worlds/Quest of the Assassin.mcpiw): *Quest of the Assassin*.
+
+[Spaceship](https://mcpi.tk/mcpi-repo/worlds/Spaceship.mcpiw): Spaceship, wohoo!
