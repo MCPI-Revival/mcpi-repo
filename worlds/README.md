@@ -9,8 +9,6 @@ Here, you can find a description about all our worlds!
 
 [Flat World](https://mcpi.tk/mcpi-repo/worlds/FlatWorld.mcpiw): Superflat world.
 
-[Skara Brae](https://mcpi.tk/mcpi-repo/worlds/SkaraBrae.mcpiw): Prehistoric village model. [Wikipedia page](https://en.wikipedia.org/wiki/Skara_Brae) (For education purposes).
-
 [Skyblock](https://mcpi.tk/mcpi-repo/worlds/Skyblock.mcpiw): *Skyblock*.
 
 [Void World](https://mcpi.tk/mcpi-repo/worlds/VoidWorld.mcpiw): There is nothing.
