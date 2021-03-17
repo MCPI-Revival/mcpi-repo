@@ -7,11 +7,11 @@ Download a `.mcpiw` world file. Rename the file extension and change it to a `.z
 ## World descriptions
 Here, you can find a description about all our worlds!
 
-[Flat World](https://mcpi.tk/mcpi-repo/worlds/FlatWorld.mcpiw): Superflat world.
+[Flat World](https://mcpi.tk/mcpi-repo/worlds/FlatWorld/FlatWorld.mcpiw): Superflat world.
 
 [Skyblock](https://mcpi.tk/mcpi-repo/worlds/Skyblock.mcpiw): *Skyblock*.
 
-[Void World](https://mcpi.tk/mcpi-repo/worlds/VoidWorld.mcpiw): There is nothing.
+[Void World](https://mcpi.tk/mcpi-repo/worlds/VoidWorld/VoidWorld.mcpiw): There is nothing.
 
 [Hogwarts](https://mcpi.tk/mcpi-repo/worlds/Hogwarts.mcpiw): *Hogwarts*.
 
@@ -20,3 +20,5 @@ Here, you can find a description about all our worlds!
 [Quest of the Assassin](https://mcpi.tk/mcpi-repo/worlds/QuestOfTheAssassin.mcpiw): *Quest of the Assassin*.
 
 [Spaceship](https://mcpi.tk/mcpi-repo/worlds/Spaceship.mcpiw): Spaceship, wohoo!
+
+[Fortress](https://mcpi.tk/mcpi-repo/worlds/Fortress/Fortress.mcpiw): A walled fortress
