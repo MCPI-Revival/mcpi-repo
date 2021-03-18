@@ -17,6 +17,9 @@ Worlds should be in a zip file, with a root directory, and the zip file, its roo
 ## Servers
 Servers are stored in a JSON format, with a IP address and a port number.
 
+## Seeds
+Seeds can be added to mcpi-repo/seeds/README.md. Add your seed under the "Seed descriptions" heading, and why your seed is useful/unique.
+
 ## Resource packs
 Resource packs/texture packs are stored in the `mcpit` format, which is a renamed zip file. It is short for:  
 ```
