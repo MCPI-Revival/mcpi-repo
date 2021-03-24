@@ -24,7 +24,7 @@ An example of a submitted world looks like this:
   │─ entities.dat  
   │─ level.dat(Name must be the same as world folder when opened with [MCPIedit](https://github.com/MCPI-Revival/MCPIedit))  
   
-Alongside your MCPIW file feel free to submit a LICENSE file for your world.
+Alongside your MCPIW file feel free to submit a LICENSE file for your world and a screenshot so people know what your world looks like!
 
 ## Servers
 Servers are stored in a JSON format, with a IP address and a port number.
