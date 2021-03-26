@@ -12,4 +12,14 @@ If you want to retrieve the seed from a pre-existing Pi/PE world, use a MCPE-com
 
 ## Seed descriptions
 
-*Example: `1610747597 - a seed with a flat forest clearing spawnpoint, nearby snowy taiga biome, and surrounding forest`*
+| Seed       | Description                                  |
+| ---------- | -------------------------------------------- |
+| 1616313507 | Survival Island with grass, trees, and beach |
+| 93610339   | Survival Island with a lagoon and forest     |
+| 3029700    | Large Snowy biome with forest hills nearby   |
+| 1616133250 | Snowy hills with huge floating island nearby |
+| 1610791506 | Huge frozen lake surrounded by snowy hills   |
+| 1610825737 | Vast Snowy Plains Biome                      |
+| 1614373761 | Vast Snowy Plains Biome                      |
+| 1968523703 | Huge frozen lake surrounded by snowy plains  |
+| -1354664164| Huge frozen lake off shore from snowy taiga  |
