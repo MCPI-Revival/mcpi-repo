@@ -1,7 +1,7 @@
 # mcpi-central-repo
 A repo for worlds and servers in MCPI-Central\MCPIL. MCPI-Repo is designed to serve as a "Minecraft Marketplace" of sorts for maps and worlds in MCPIL.
 
-## Worlds
+## [Worlds](/worlds/)
 Worlds are stored in the `mcpiw` format, which is just a renamed zip file. It stands for:  
 ```
 MineCraftPIWorld
@@ -29,9 +29,8 @@ Alongside your MCPIW file feel free to submit a LICENSE file for your world and 
 ## Servers
 Servers are stored in a JSON format, with a IP address and a port number.
 
-## Seeds
+## [Seeds](/seeds/)
 Seeds can be added to the table under the "Seed descriptions" heading of [README.md](https://github.com/MCPI-Revival/mcpi-repo/blob/main/seeds/README.md). Put your seed in the column labeled "Seed" and write a brief description about the world generated with your seed.
-
 
 ## Resource packs
 Resource packs/texture packs are stored in the `mcpit` format, which is a renamed zip file. It is short for:  
