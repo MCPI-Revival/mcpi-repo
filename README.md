@@ -32,7 +32,7 @@ Servers are stored in a JSON format, with a IP address and a port number.
 ## [Seeds](seeds/)
 Seeds can be added to the table under the "Seed descriptions" heading of [README.md](https://github.com/MCPI-Revival/mcpi-repo/blob/main/seeds/README.md). Put your seed in the column labeled "Seed" and write a brief description about the world generated with your seed.
 
-## Resource packs
+## [Resource packs](texturepack/)
 Resource packs/texture packs are stored in the `mcpit` format, which is a renamed zip file. It is short for:  
 ```
 MineCraftPITexturepack
