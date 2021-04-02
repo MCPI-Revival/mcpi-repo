@@ -7,6 +7,8 @@ Worlds are stored in the `mcpiw` format, which is just a renamed zip file. It st
 MineCraftPIWorld
 ^   ^    ^^^
 ```
+### Importing worlds
+
 To open a world just download it, and rename it to .zip (for example `coolworld.zip` > `coolworld.mcpiw`).
 Move it to ~/.minecraft/games/com.mojang/minecraftWorlds/ if you are using MCPIL/MCPI-Reborn
 
