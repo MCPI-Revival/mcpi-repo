@@ -12,14 +12,26 @@ If you want to retrieve the seed from a pre-existing Pi/PE world, use a MCPE-com
 
 ## Seed descriptions
 
-| Seed       | Description                                  |
-| ---------- | -------------------------------------------- |
-| 1616313507 | Survival Island with grass, trees, and beach |
-| 93610339   | Survival Island with a lagoon and forest     |
-| 3029700    | Large Snowy biome with forest hills nearby   |
-| 1616133250 | Snowy hills with huge floating island nearby |
-| 1610791506 | Huge frozen lake surrounded by snowy hills   |
-| 1610825737 | Vast Snowy Plains Biome                      |
-| 1614373761 | Vast Snowy Plains Biome                      |
-| 1968523703 | Huge frozen lake surrounded by snowy plains  |
-| -1354664164| Huge frozen lake off shore from snowy taiga  |
+| Category  | Seed                | Description                                                     |
+| ---------------------------- | ---------- | --------------------------------------------- |
+| Survival Island              | 1616313507 | Survival Island with grass, trees, and beach  |
+| Survival Island              | 93610339   | Survival Island with a lagoon and forest      |
+| Snowy Biome                  | 3029700    | Large Snowy biome with forest hills nearby    |
+| Snowy Biome                  | 1616133250 | Snowy hills with huge floating island nearby  |
+| Snowy Biome                  | 1610791506 | Huge frozen lake surrounded by snowy hills    |
+| Snowy Biome                  | 1610825737 | Vast Snowy Plains Biome                       |
+| Snowy Biome                  | 1614373761 | Vast Snowy Plains Biome                       |
+| Snowy Biome                  | 1968523703 | Huge frozen lake surrounded by snowy plains   |
+| Snowy Biome                  | -1354664164| Huge frozen lake off shore from snowy taiga   |
+| Forest Biome                 | 1616809412 | Forest canyon with water running through      |
+| Forest Biome                 | 1616962635 | Forest banks and islands overlooking lake     |
+| Forest Biome                 | 1616615941 | Forest Coastline                              |
+| Forest Biome                 | 1617378393 | Forest valley with ponds                      |
+| Water Features               | 1617274108 | Steep hills with underground water-tunnels    | 
+| Water Features               | 1617754432 | Cove featuring lagoons                        |
+| Plains Biome                 | 1616809535 | Flat grassy plains with water and few trees   |
+| Plains Biome                 | 1617521647 | Flat grassy plains with little water or trees |
+| Plains Biome                 | 1617665494 | Coastal plain with many flowers               |
+| Overhangs / Floating Islands | 3396408    | Few overhangs with steep hills nearby         |
+| Overhangs / Floating Islands | -1965077007| Many overhangs with lake beneath              |
+| Overhangs / Floating Islands | 1616133250 | Huge floating island nearby                   |
