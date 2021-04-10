@@ -13,7 +13,7 @@ To open a world just download it, and rename it to .zip (for example `coolworld.
 Move it to ~/.minecraft/games/com.mojang/minecraftWorlds/ if you are using MCPIL/MCPI-Reborn
 
 ### Submitting worlds
-Worlds should be in a zip file, renamed to a `.mcpiw` file extension, and with a root directory containing the world files. Its root folder, and the `level.dat` file's world named inside it should have exactly the same name. To edit the `level.dat` file, see [MCPIedit](https://github.com/MCPI-Revival/MCPIedit). The root folder should not contain the following files or directories:
+Worlds should be in a zip file, renamed to a `.mcpiw` file extension, and with a root directory containing the world files. It's root folder, and the `level.dat` file's world named inside it should have exactly the same name. To edit the `level.dat` file, see [MCPIedit](https://github.com/MCPI-Revival/MCPIedit). The root folder should not contain the following files or directories:
  + `player.dat`
  + `level.dat_old`
  + `players/`
@@ -26,9 +26,9 @@ An example of a submitted world looks like this:
   │─ entities.dat  
   │─ level.dat(Name must be the same as world folder when opened with [MCPIedit](https://github.com/MCPI-Revival/MCPIedit))  
   
-Alongside your MCPIW file feel free to submit a LICENSE file for your world and a screenshot so people know what your world looks like!
+Alongside your MCPIW file you must add a entry to worlds.json, but feel free to submit a LICENSE file for your world and a screenshot so people know what your world looks like!
 
-## Servers
+## [Servers](servers/)
 Servers are stored in a JSON format, with a IP address and a port number.
 
 ## [Seeds](seeds/)
