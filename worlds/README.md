@@ -17,5 +17,5 @@ Here, you can find a description and link to all our worlds!
 | [Quest of the Assassin](QuestOfTheAssassin.mcpiw)  | *Quest of the Assassin*                                                  |
 | [ScaraBrae](ScaraBrae/)                            | An abandoned village on the Orkney Islands at the north of England       |
 | [Skyblock](Skyblock.mcpiw)                         | *Skyblock*                                                               |
-| [Spaceship](Spaceship.mcpiw)                       | Spaceship, wohoo!                                                        |
+| [Spaceship](Spaceship.mcpiw)                       | Spaceship, Who-oo!                                                        |
 | [Void World](VoidWorld/)                           | There is nothing                                                         |
