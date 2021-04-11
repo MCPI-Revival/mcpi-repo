@@ -1,5 +1,5 @@
 # Fortress
-[Download](./Fortress.mcpiw)
+[Download](./Fortress.zip)
 
 Made by TheBoyLeastLikelyTo#4375 on Discord
 

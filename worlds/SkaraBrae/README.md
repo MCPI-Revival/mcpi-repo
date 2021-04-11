@@ -1,5 +1,5 @@
 # SkaraBrae
-[Download](./SkaraBrae.mcpiw)
+[Download](./SkaraBrae.zip)
 
 There is an abandoned village on Orkney Islands at the north of England.
 It was abandoned long ago, when the pyramids were just started to be built.
