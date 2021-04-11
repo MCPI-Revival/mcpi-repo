@@ -2,17 +2,19 @@
 A repo for worlds and servers in MCPI-Central/MCPIL. MCPI-Repo is designed to serve as a "Minecraft Marketplace" of sorts for maps and worlds in MCPIL.
 
 ## [Worlds](worlds/)
-Worlds are stored in the `mcpiw` format, which is just a renamed zip file. It stands for:
-```
-MineCraftPIWorld
-^   ^    ^^^
-```
+>Worlds are stored in the `mcpiw` format, which is just a renamed zip file. It stands for:
+>```
+>MineCraftPIWorld
+>^   ^    ^^^
+>```
+NOTE: We've switched to using plain .zip files to make it easier to download worlds, so the info above is irrelavent.
+
 ### Importing Worlds
-To open a world just download it, and rename it to .zip (for example `coolworld.zip` > `coolworld.mcpiw`).
+To open a world just download it.
 Move it to ~/.minecraft/games/com.mojang/minecraftWorlds/ if you are using MCPIL/MCPI-Reborn
 
 ### Submitting Worlds
-Worlds should be in a zip file, renamed to a `.mcpiw` file extension, and with a root directory containing the world files. Its root folder, and the `level.dat` file's world name should be exactly the same. To edit the `level.dat` file, use [MCPIedit](https://github.com/MCPI-Revival/MCPIedit).
+Worlds should be in a zip file, with a root directory containing the world files. it's root folder, and the `level.dat` file's world name should be exactly the same. To edit the `level.dat` file, use [MCPIedit](https://github.com/MCPI-Revival/MCPIedit).
 
 The root folder should not contain the following files or directories:
 - `player.dat`
@@ -22,14 +24,14 @@ The root folder should not contain the following files or directories:
 An example of a submitted world looks like this:
 ```
 .
-└── CoolWorld.mcpiw
+└── CoolWorld.zip
     └── CoolWorld(folder)
         ├── chunks.dat
         ├── entities.dat
         └── level.dat
 ```
   
-Alongside your MCPIW file you must add an entry to `worlds.json`, but feel free to submit a `LICENSE` file for your world and a screenshot so people know what your world looks like!
+Alongside your .zip file you must add an entry to `worlds.json`, but feel free to submit a `LICENSE` file for your world and a screenshot so people know what your world looks like!(if you do submit a screenshot/license please make it in it's own folder instead of just uploading them to /worlds, like eg `/worlds/CoolWorld/CoolWorld.zip + other files` instead of `/worlds/CoolWorld.zip and other files`)
 
 ## [Servers](servers/)
 Servers are stored in a JSON format, with a IP address and a port number.
