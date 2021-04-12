@@ -2,12 +2,6 @@
 A repo for worlds and servers in MCPI-Central/MCPIL. MCPI-Repo is designed to serve as a "Minecraft Marketplace" of sorts for maps and worlds in MCPIL.
 
 ## [Worlds](worlds/)
->Worlds are stored in the `mcpiw` format, which is just a renamed zip file. It stands for:
->```
->MineCraftPIWorld
->^   ^    ^^^
->```
-NOTE: We've switched to using plain .zip files to make it easier to download worlds, so the info above is irrelavent.
 
 ### Importing Worlds
 To open a world just download it.
