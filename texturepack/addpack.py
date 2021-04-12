@@ -31,12 +31,12 @@ def loadTextures(filename):
             pass#print('Permission error. Run this in a terminal using sudo.')
 
 print('''
-Input texturepack file path (.mcpit)
+Input texturepack file path (.zip)
 Leave blank to recover textures:''')
 filePath = input()
 if filePath == '':
-    filePath = 'recoveryPack.mcpit'
-    archive = zipfile.ZipFile('recoveryPack.mcpit', 'r')
+    filePath = 'recoveryPack.zip'
+    archive = zipfile.ZipFile('recoveryPack.zip', 'r')
     print('Recovering textures to an old state')
 else:
     try:
