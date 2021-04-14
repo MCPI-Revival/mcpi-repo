@@ -10,7 +10,9 @@ Coded by NikZapp. This code is sadly not protected.
  + `addpack.py`
  + `recoveryPack.zip`
 
-`badgeFix.zip` changes the Minecon logo to an MCPI Approved logo, requested by @TheBrokenRail. `new_textures.mcpit` is a pack using `Bracket The Fox#6969`'s textures made from the newer version of Minecraft. `ZombiePigmanFix.zip` is a fix to the zombie pigman texture not showing the outside of heads.
+-`badgeFix.zip` changes the Minecon logo to an MCPI Approved logo, requested by @TheBrokenRail. 
+-`new_textures.mcpit` is a pack using `Bracket The Fox#6969`'s textures made from the newer version of Minecraft. `ZombiePigmanFix.zip` is a fix to the zombie pigman texture not showing the outside of heads.
+-`mcpi-plastic-pack.zip` is a pack made by [AbysssDevelopment](https://github.com/AbysssDevelopment), and is a recreation of the Minecraft Bedrock Plastic [texture pack](https://www.microsoft.com/en-us/p/minecraft-plastic-texture-pack/bxt9xgfbcb2g).
 
 ### Features:
 1. Install custom textures witout navigating in all the folders.
