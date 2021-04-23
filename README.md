@@ -34,6 +34,6 @@ Servers are stored in a JSON format, with a IP address and a port number.
 Seeds can be added to the table under the "Seed descriptions" heading of [README.md](https://github.com/MCPI-Revival/mcpi-repo/blob/main/seeds/README.md). Put your seed in the column labeled "Seed" and write a brief description about the world generated with your seed.
 
 ## [Resource Packs](texturepack/)
-Resource packs/texture packs are stored in the `mcpit` format, which is a renamed zip file. It is short for: **M**ine**C**raft**PIT**exturepack
+Resource packs/texture packs are stored in the zip format. MOTE: As of now the texturepacks system does NOT work with mcpi-reborn's overrides system.
 
 More info can be found at [https://github.com/MCPI-Revival/mcpi-texturepack](https://github.com/MCPI-Revival/mcpi-texturepack).
