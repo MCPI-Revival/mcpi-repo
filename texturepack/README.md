@@ -1,9 +1,23 @@
 # mcpi-texturepack
-Code for adding texture packs into MCPI-Reborn.
+
+Repo for Minecraft Pi texture packs. Designed for the MCPIL launcher.
+
+## Texturepack descriptions
+
+| Pack Name                                  | Pack Author/Uploader         |
+| ------------------------------------------ | ---------------------------- |
+| [new_textures](new_textures.zip)           | Added by RPi News            |
+| [recoveryPack](recoveryPack.zip)           | Added by RPi News            |
+| [badgeFix](badgeFix.zip)                   | Added by RPi News            |
+| [ZombiePigmanFix](ZombiePigmanFix.zip)     | Added by RPi News            |
+| [mcpi-plastic-pack](mcpi-plastic-pack.zip) | Created by [AbysssDevelopment](https://github.com/MCPI-Revival/mcpi-repo/commits?author=AbysssDevelopment)  |
+| [MCPI-Xray v1.0](MCPI-Xray-v1.0.zip)       | Added by RPi News            |
+| [Youdub-pack](Youdub-pack.zip)             | Created by Youdubham#3049    |
+
+## MCPI Texturepack utility v1.1
 
 > This repo is a upload of the code which was originally made by `NikZapp#6774` on Discord with minor tweaks to work with MCPI-Reborn. Here is a formatted version of the original README from NikZapp:
 
-## MCPI Texturepack utility v1.1
 Coded by NikZapp. This code is sadly not protected.
 
 ### Files not to touch:
