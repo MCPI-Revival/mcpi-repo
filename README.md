@@ -1,6 +1,9 @@
 # MCPI-Repo
 A repo for worlds and servers in [MCPI-Central/MCPIL](https://github.com/MCPI-Revival/mcpi-repo). MCPI-Repo is designed to serve as a "Minecraft Marketplace" of sorts for maps and worlds in MCPIL.
 
+## Submiting a new file
+Create a pull request and we will review and accept it as soon as possible.
+
 ## [Worlds](worlds/)
 
 ### Importing Worlds
