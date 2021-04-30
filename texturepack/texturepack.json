@@ -1,18 +1,18 @@
 {
   "Modern Textures": {
-    "desc": "Textures made from a newer version of Minecraft",
+    "desc": "Textures ported from the newer versions of Minecraft",
     "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/new_textures.zip"
   },
   "Recovery Pack": {
-    "desc": "Default textures",
+    "desc": "Vanilla MCPI textures",
     "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/recoveryPack.zip"
   },
   "Badge Fix": {
-    "desc": "Changes the Minecon logo to an MCPI Approved logo",
+    "desc": "Changes the 'Minecon' logo to an 'MCPI Approved' logo",
     "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/badgeFix.zip"
   },
   "Zombie Pigman Fix": {
-    "desc": "Fix to the Zombie Pigman layers not showing",
+    "desc": "Fix to the Zombie Pigman layers not showing (only use with vanilla textures!)",
     "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/ZombiePigmanFix.zip"
   },
   "Plastic Pack": {
@@ -20,7 +20,7 @@
     "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/mcpi-plastic-pack.zip"
   },
   "Youdub Pack": {
-    "desc": "Youdub's custom texture pack",
+    "desc": "Youdub's modified texture pack based off 'Modern Textures'",
     "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/Youdub-pack.zip"
   }
 }
