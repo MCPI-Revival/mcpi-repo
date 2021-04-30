@@ -1,0 +1,26 @@
+{
+  "Modern Textures": {
+    "desc": "Textures made from a newer version of Minecraft",
+    "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/new_textures.zip"
+  },
+  "Recovery Pack": {
+    "desc": "Default textures",
+    "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/recoveryPack.zip"
+  },
+  "Badge Fix": {
+    "desc": "Changes the Minecon logo to an MCPI Approved logo",
+    "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/badgeFix.zip"
+  },
+  "Zombie Pigman Fix": {
+    "desc": "Fix to the Zombie Pigman layers not showing",
+    "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/ZombiePigmanFix.zip"
+  },
+  "Plastic Pack": {
+    "desc": "Recreation of the Minecraft Bedrock Plastic texture pack",
+    "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/mcpi-plastic-pack.zip"
+  },
+  "Youdub Pack": {
+    "desc": "Youdub's custom texture pack",
+    "url": "https://raw.githubusercontent.com/mcpi-revival/mcpi-repo/main/texturepack/Youdub-pack.zip"
+  }
+}
