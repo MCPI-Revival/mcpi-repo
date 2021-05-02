@@ -13,20 +13,26 @@ Repo for Minecraft Pi texture packs. Designed for the MCPIL launcher.
 | [mcpi-plastic-pack](mcpi-plastic-pack.zip) | Created by [AbysssDevelopment](https://github.com/MCPI-Revival/mcpi-repo/commits?author=AbysssDevelopment)  |
 | [MCPI-Xray v1.0](MCPI-Xray-v1.0.zip)       | Added by RPi News            |
 | [Youdub-pack](Youdub-pack.zip)             | Created by Youdubham#3049    |
+| [LouieDuck](LouieDuck.zip)                 | Added by RPi News            |
+
+### Files not to touch:
+ + `addpack.py`
+ + `recoveryPack.zip`(vanilla MCPI textures)
+
+-`new_textures.zip` is a port for the newer MC textures for MCPI
+-`badgeFix.zip` changes the Minecon logo to an MCPI Approved logo, requested by @TheBrokenRail. 
+-`new_textures.zip` is a pack using `Bracket The Fox#6969`'s textures made from the newer version of Minecraft. 
+-`ZombiePigmanFix.zip` is a fix to the zombie pigman texture not showing the outside of heads.
+-`mcpi-plastic-pack.zip` is a pack made by [AbysssDevelopment](https://github.com/AbysssDevelopment), and is a recreation of the Minecraft Bedrock Plastic [texture pack](https://www.microsoft.com/en-us/p/minecraft-plastic-texture-pack/bxt9xgfbcb2g).
+-`MCPI-Xray-v1.0.zip` is a broken attempt at a xray hack.
+`Youdub-pack.zip` is a custom pack made by `Youdubham#3049`
+-`LoueDuck.zip` turns chickens into Louie from DuckTales as shown [here](https://twitter.com/mcpirevival/status/1387398697097568259)
 
 ## MCPI Texturepack utility v1.1
 
 > This repo is a upload of the code which was originally made by `NikZapp#6774` on Discord with minor tweaks to work with MCPI-Reborn. Here is a formatted version of the original README from NikZapp:
 
 Coded by NikZapp. This code is sadly not protected.
-
-### Files not to touch:
- + `addpack.py`
- + `recoveryPack.zip`
-
--`badgeFix.zip` changes the Minecon logo to an MCPI Approved logo, requested by @TheBrokenRail. 
--`new_textures.mcpit` is a pack using `Bracket The Fox#6969`'s textures made from the newer version of Minecraft. `ZombiePigmanFix.zip` is a fix to the zombie pigman texture not showing the outside of heads.
--`mcpi-plastic-pack.zip` is a pack made by [AbysssDevelopment](https://github.com/AbysssDevelopment), and is a recreation of the Minecraft Bedrock Plastic [texture pack](https://www.microsoft.com/en-us/p/minecraft-plastic-texture-pack/bxt9xgfbcb2g).
 
 ### Features:
 1. Install custom textures witout navigating in all the folders.
