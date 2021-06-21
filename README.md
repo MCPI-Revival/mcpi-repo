@@ -1,5 +1,5 @@
 # MCPI-Repo
-A repo for MCPI worlds and servers. MCPI-Repo is designed to serve as a "Minecraft Marketplace" of sorts for maps and worlds in our MCPI launcher, as well as MCPI itself.
+A repo for MCPI worlds and servers. MCPI-Repo is designed to serve as a "Minecraft Marketplace" of sorts for maps and worlds in the MCPI launchers, as well as MCPI itself.
 
 ## Submiting a new file
 Create a pull request and we will review and accept it as soon as possible.
