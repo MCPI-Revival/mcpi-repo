@@ -12,5 +12,12 @@
         "description": "The \"oldest\" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.",
         "gamemode": "Survival",
         "owner": "RPiNews#0001"
+    },
+    "Meowie's Minecraft server": {
+        "ip": "178.63.126.210",
+        "port": 19132,
+        "description": "A fun little server.",
+        "gamemode": "Survival",
+        "owner": "Meowie Gamer#5706"
     }
 }
