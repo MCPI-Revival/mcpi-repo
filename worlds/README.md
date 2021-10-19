@@ -15,7 +15,7 @@ Here, you can find a description and link to all our worlds!
 | [Hogwarts](Hogwarts.zip)                         | *Hogwarts*                                                               |
 | [NRC History](NRC_History/)                        | World showcasing the history of the Nether Spire and Nether Reactor Core |
 | [Quest of the Assassin](QuestOfTheAssassin.zip)  | *Quest of the Assassin* (Best adventure map, reccomended by the MCPI-Repo devs) [original download on minecraftforum](https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1983658-quest-of-the-assassin-a-big-adventure-map))                                              |
-| [SkaraBrae](SkaraBrae/)                            | An abandoned village on the Orkney Islands at the north of England       |
+| [SkaraBrae](SkaraBrae/)                            | An abandoned village on the Orkney Islands at the north of Scotland       |
 | [Skyblock](Skyblock.zip)                         | *Skyblock*                                                               |
 | [Spaceship](Spaceship.zip)                       | Spaceship, Who-oo!                                                        |
 | [Void World](VoidWorld/)                           | There is nothing (best for custom maps)                                                       |
