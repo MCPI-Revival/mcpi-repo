@@ -3,20 +3,23 @@
         "ip": "thebrokenrail.com",
         "port": 19132,
         "description": "Friendly MCPI survival server to chill out and have fun! Used as a server to test the newest MCPI-Reborn code.",
+        "maxcapacity": 20,
         "gamemode": "Creative",
         "owner": "TheBrokenRail#5376"
     },
     "PBPT": {
         "ip": "pbptanarchy.tk",
         "port": 19132,
-        "description": "The \"oldest\" MCPI survival anarchy server! Anything and everything is allowed from flyhacks to greifing.",
+        "description": "Used to be the oldest anarchy server, now repurposed to general survival. No griefing and vulgar terms.",
+        "maxcapacity": 50,
         "gamemode": "Survival",
-        "owner": "RPiNews#0001"
+        "owner": "Nooz#0816"
     },
     "Meowie's Minecraft server": {
         "ip": "178.63.126.210",
         "port": 19132,
         "description": "A fun little server.",
+        "maxcapacity": 20,
         "gamemode": "Survival",
         "owner": "Meowie Gamer#5706"
     }
