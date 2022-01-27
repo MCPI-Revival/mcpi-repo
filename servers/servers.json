@@ -4,6 +4,7 @@
         "port": 19132,
         "description": "Friendly MCPI survival server to chill out and have fun! Used as a server to test the newest MCPI-Reborn code.",
         "maxcapacity": 20,
+        "icon": "https://github.com/MCPI-Revival/mcpi-repo/raw/servers/servers/tbr-server-icon.png",
         "gamemode": "Creative",
         "owner": "TheBrokenRail#5376"
     },
@@ -12,6 +13,7 @@
         "port": 19132,
         "description": "Used to be the oldest anarchy server, now repurposed to general survival. No griefing and vulgar terms.",
         "maxcapacity": 50,
+        "icon" : "https://github.com/MCPI-Revival/mcpi-repo/raw/servers/servers/pbpt-server-icon.png",
         "gamemode": "Survival",
         "owner": "Nooz#0816"
     },
@@ -20,6 +22,7 @@
         "port": 19132,
         "description": "A fun little server.",
         "maxcapacity": 20,
+        "icon": false,
         "gamemode": "Survival",
         "owner": "Meowie Gamer#5706"
     }
