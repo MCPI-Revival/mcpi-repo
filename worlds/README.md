@@ -20,3 +20,5 @@ Here, you can find a description and link to all our worlds!
 | [Spaceship](Spaceship.zip)                       | Spaceship, Who-oo!                                                        |
 | [Void World](VoidWorld/)                           | There is nothing (best for custom maps)                                                       |
 | [Debug](Debug.zip)                           | Similiar to the Java edition block debug world                                                       |
+| [One Block](OneBlock.zip)                    | The One Block challenge                                      |
+| [One Chunk](OneChunk.zip)                      | The One Chunk challenge                                       |
